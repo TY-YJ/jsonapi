@@ -5,6 +5,14 @@ This Python module provides a custom JSON encoder (BetterEncoder) and decoder (B
 ## Installation
 You can install the package using pip:
 
+Navigate to the directory containing the source code of the package
+
+```
+cd /path/to/package_directory
+pip install -e .
+```
+
+
 ## Supported Data Types
 The custom encoder and decoder support the following data types:
 
